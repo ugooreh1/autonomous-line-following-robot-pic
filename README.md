@@ -81,19 +81,19 @@ To reproduce:
 
 ### Robot Photos
 
-![Robot Front](IMG_5284.JPG)
+![Robot Front](robot-front-view.jpg)
 
-![Robot Side](IMG_5285.JPG)
+![Robot Side](robot-side-view.jpg)
 
 ### Demonstration Videos
 
 Robot line-following demo:
 
-[Watch line-following demo](./Img%205269(1).mp4)
+[Watch line-following demo](./robot-line-following-demo.mp4)
 
 Automatic braking demo:
 
-[Watch automatic braking demo](./Img%205270.mp4)
+[Watch automatic braking demo](./robot-automatic-braking-demo.mp4)
 ## Engineering Challenges
 
 Challenges encountered included:
