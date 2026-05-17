@@ -79,12 +79,21 @@ To reproduce:
 
 ## Media
 
-Robot line-following demonstration included in repository media.
+### Robot Photos
 
-Automatic braking demonstration included in repository media.
+![Robot Front](IMG_5284.JPG)
 
----
+![Robot Side](IMG_5285.JPG)
 
+### Demonstration Videos
+
+Robot line-following demo:
+
+[Watch line-following demo](./Img%205269(1).mp4)
+
+Automatic braking demo:
+
+[Watch automatic braking demo](./Img%205270.mp4)
 ## Engineering Challenges
 
 Challenges encountered included:
